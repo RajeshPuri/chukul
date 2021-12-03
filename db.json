@@ -1,0 +1,53 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "todos": [
+      {
+        "id": 0,
+        "name": "Go to the gym"
+      },
+      {
+        "id": 1,
+        "name": "Walk the dog"
+      },
+      {
+        "id": 2,
+        "name": "Get some pizza"
+      },
+      {
+        "name": "add to do",
+        "id": 3
+      },
+      {
+        "name": "apple",
+        "id": 4
+      },
+      {
+        "name": "ball",
+        "id": 5
+      },
+      {
+        "name": "cat",
+        "id": 6
+      },
+      {
+        "name": "ahdahd",
+        "id": 7
+      }
+    ]
+  }

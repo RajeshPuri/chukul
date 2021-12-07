@@ -1,6 +1,7 @@
 <template>
 <div>
     <Stocktable />
+    <Profile />
     
 
 </div>
@@ -8,8 +9,9 @@
 
 <script>
 import Stocktable from "../components/Stocktable.vue";
+import Profile from "src/components/Profile.vue";
     export default  {
-    components: { Stocktable },
+    components: { Stocktable, Profile },
 
     
     

@@ -19,6 +19,7 @@
     "core-js": "^3.6.5",
     "particles.vue3": "^1.20.3",
     "quasar": "^2.0.0",
+    "stylus-loader": "^6.2.0",
     "vuex": "^4.0.1"
   },
   "devDependencies": {

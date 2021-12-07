@@ -7,10 +7,15 @@
 
   <!-- <datatable /> -->
 
-  <!-- <sector />
-  <todo /> -->
-  <sectors />
+  <!-- <sector />  -->
+  <!-- <todo /> -->
+ 
+  <!-- <sectors /> -->
+  <profile />
   <stock />
+  
+ 
+
  
  
   
@@ -23,15 +28,18 @@ import Todo from "src/components/todo.vue";
 import Datatable from "src/components/Datatable.vue";
 import Stock from "src/components/stock.vue";
 import Sectors from "src/components/Sectors.vue";
+import Profile from "src/components/Profile.vue";
+
+
 export default {
   name: "Dashboard",
   components: {
     //Welcome,
     //Sector,
-    //Todo,
+    // Todo,
     //Datatable,
     Stock,
-    Sectors
+    Profile
 },
 };
 </script>

@@ -6,14 +6,16 @@
             <tr>
             <th>ID</th>
             <th>Name</th>
-            
+            <th>Symbol</th>
+            <th>Sector</th>
             </tr>
         </thead>
         <tbody>
             <tr v-for="sector in sectors" :key="sector.id">
             <td>{{sector.id}}</td>
             <td>{{sector.name}}</td>
-            
+            <td>{{sector.symbol}}</td>
+            <td>{{sector.sector}}</td>
             </tr>
         </tbody>
         </table>

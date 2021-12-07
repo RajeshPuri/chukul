@@ -1,24 +1,58 @@
 <template>
     <div>
-        <h3>Stock Table</h3>
+        <h6 id="demo">Stock Table</h6>
+       
+ <q-btn-dropdown m="10px" pa="100px" color="primary" label="Select Sectors">
+      <q-list>
+        <q-item v-for="sect in sectors" :key="sect.id" clickable v-close-popup @click=" onItemClickStock(sect.id)">
+          <q-item-section >
+            <q-item-label> {{sect.name}} </q-item-label>
+          </q-item-section>
+        </q-item>
+     </q-list>
+  </q-btn-dropdown>
+
+  
+
+  <q-btn-dropdown pa="100px" color="primary" label="Select Stock">
+      <q-list>
+        <q-item v-for="stoc in filteredstocks" :key="stoc.id" clickable v-close-popup @click="onItemClick(sect.id)">
+          <q-item-section >
+            <q-item-label> {{stoc.name}} </q-item-label>
+          </q-item-section>
+        </q-item>
+     </q-list>
+  </q-btn-dropdown>
+ 
+
+
+
          <table >
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Name</th>
-      <th>Symbol</th>
-      <th>Sector</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr v-for="stock in stocks" :key="stock.id">
-      <td>{{stock.id}}</td>
-      <td>{{stock.name}}</td>
-      <td>{{stock.symbol}}</td>
-      <td>{{stock.sector}}</td>
-    </tr>
-  </tbody>
-</table>
+                  <thead>
+                    <tr>
+                      <th>ID</th>
+                      <th>Name</th>
+                      <th>Symbol</th>
+                      <th>Sector</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr v-for="stoc in filteredstocks" :key="stoc.id">
+                      <td>{{stoc.id}}</td>
+                      <td>{{stoc.name}}</td>
+                      <td>{{stoc.symbol}}</td>
+                      <td>{{stoc.sector}}</td>
+                      <!-- <td v-for="sect in sectors" :key="sect.id"  >{{sect.name}}</td> -->
+                    </tr>
+                    <tr v-for="stoc in stocks" :key="stoc.id">
+                      <td>{{stoc.id}}</td>
+                      <td>{{stoc.name}}</td>
+                      <td>{{stoc.symbol}}</td>
+                      <td>{{stoc.sector}}</td>
+                    </tr>
+
+                  </tbody>
+            </table>
        
 
     </div>
@@ -26,22 +60,34 @@
 <script>
 import axios from 'axios';
 
-const baseURL ="http://localhost:3000/stocks";
+const stockURL ="http://localhost:3000/stocks";
+const sectorURL ="http://localhost:3000/sectors";
 
 export default{
     name:"Stock",
 
     data(){
+      
         return{
-            stocks:[]
+            stocks:[],
+            sectors:[],
+            filteredstocks:[]
+            
+
+                  
+            
 
         };
     },
+    
 
     async created(){
         try{
-            const res =await axios.get(baseURL);
-            this.stocks=res.data;
+            const stock =await axios.get(stockURL);
+            const sector = await axios.get(sectorURL)
+            this.stocks=stock.data;
+            this.sectors=sector.data;
+            
         }catch(e){
             console.error(e);
         }
@@ -49,9 +95,30 @@ export default{
     },
 
     methods:{
-        stock(){
-            
-        }
+       
+       onItemClickStock(sectorId) {
+         
+         const filteredItems =this.stocks.filter((item)=>{
+            return item.sector===sectorId;
+            })
+
+           this.filteredstocks = filteredItems
+
+        
+      },
+
+       onItemClicks(sectorId) {
+         
+         const filteredItems =this.stocks.filter((item)=>{
+            return item.sector===sectorId;
+            })
+
+           this.filteredstocks = filteredItems
+
+        
+      },
+        
+       
 
     }
 }

@@ -1,6 +1,22 @@
 <template>
     <div>
-        <h1>Todo Components</h1>
+        <h6>Todo Components</h6>
+
+         <form @submit.prevent="handleSubmit">
+            <label>
+            Email:
+            <input type="email" v-model="user.email"/>
+            </label>
+            <label>
+            Name:
+            <input type="text" v-model="user.name"/>
+            </label>
+            <label>
+            Password:
+            <input type="password" v-model="user.password"/>
+            </label>
+            <button type="submit">Submit</button>
+        </form>
 
         <input type="text" v-model="todoName" @keyup.enter = "addTodo">
 
@@ -21,7 +37,12 @@ export default{
     data(){
         return{
             todos :[],
-            todoName: ''
+            todoName: '',
+            user: {
+            email: '',
+            name: '',
+            password: ''
+            }
         };
     },
 
@@ -35,13 +56,22 @@ export default{
             console.error(e);
         }
     },
+
+
     methods:{
+
+
         async addTodo(){
             const res = await axios.post(baseURL,{name:this.todoName});
 
             this.todos = [...this.todos, res.data];
 
             this.todoName = ''
+
+            
+        },
+         handleSubmit() {
+      // Send data to the server or update your stores and such.
         }
     }
 

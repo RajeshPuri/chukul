@@ -1,1695 +1,1724 @@
 {
-
-    "sectors":[
-
-        {
-            "id": 1,
-            "name": "Commercial Bank",
-            "created_at": "2021-11-28T09:25:33.902605Z",
-            "updated_at": "2021-11-28T09:25:33.902605Z"
-        },
-        {
-            "id": 2,
-            "name": "Development Bank",
-            "created_at": "2021-11-28T09:25:33.902605Z",
-            "updated_at": "2021-11-28T09:25:33.902605Z"
-        },
-
-        {
-            "id": 3,
-            "name": "Finance",
-            "created_at": "2021-11-28T09:25:33.902605Z",
-            "updated_at": "2021-11-28T09:25:33.902605Z"
-        },
-        {
-            "id": 4,
-            "name": "Hotels And Tourism",
-            "created_at": "2021-11-28T09:25:33.902605Z",
-            "updated_at": "2021-11-28T09:25:33.902605Z"
-        },
-        {
-            "id": 5,
-            "name": "Hydro Power",
-            "created_at": "2021-11-28T09:25:33.902605Z",
-            "updated_at": "2021-11-28T09:25:33.902605Z"
-        },
-        {
-            "id": 6,
-            "name": "Investment",
-            "created_at": "2021-11-28T09:25:33.902605Z",
-            "updated_at": "2021-11-28T09:25:33.902605Z"
-        },
-        {
-            "id": 7,
-            "name": "Life Insurance",
-            "created_at": "2021-11-28T09:25:33.902605Z",
-            "updated_at": "2021-11-28T09:25:33.902605Z"
-        },
-        {
-            "id": 8,
-            "name": "Manufacturing And Processing",
-            "created_at": "2021-11-28T09:25:33.902605Z",
-            "updated_at": "2021-11-28T09:25:33.902605Z"
-        },
-        {
-            "id": 9,
-            "name": "Microfinance",
-            "created_at": "2021-11-28T09:25:33.902605Z",
-            "updated_at": "2021-11-28T09:25:33.902605Z"
-        },
-        {
-            "id": 10,
-            "name": "Non Life Insurance",
-            "created_at": "2021-11-28T09:25:33.902605Z",
-            "updated_at": "2021-11-28T09:25:33.902605Z"
-        },
-        {
-            "id": 11,
-            "name": "Others",
-            "created_at": "2021-11-28T09:25:33.902605Z",
-            "updated_at": "2021-11-28T09:25:33.902605Z"
-        },
-        {
-            "id": 12,
-            "name": "Tradings",
-            "created_at": "2021-11-28T09:25:33.902605Z",
-            "updated_at": "2021-11-28T09:25:33.902605Z"
-        }
-    ],
-    
-    "stocks":
-
-[
+  "todos": [
     {
-        "id": 1,
-        "name": "Rastriya Banijya Bank",
-        "symbol": "RBB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
+      "id": 0,
+      "name": "Go to the gym"
     },
     {
-        "id": 2,
-        "name": "Nabil Bank Limited",
-        "symbol": "NABIL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
+      "id": 1,
+      "name": "Walk the dog"
     },
     {
-        "id": 3,
-        "name": "Standard Chartered Bank Limited",
-        "symbol": "SCB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
+      "id": 2,
+      "name": "Get some pizza"
     },
     {
-        "id": 4,
-        "name": "Nepal SBI Bank Limited",
-        "symbol": "SBI",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
+      "name": "rajesh",
+      "id": 3
     },
     {
-        "id": 5,
-        "name": "Nepal Bangladesh Bank Limited",
-        "symbol": "NBB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
+      "name": "ffff",
+      "id": 4
     },
     {
-        "id": 6,
-        "name": "Everest Bank Limited",
-        "symbol": "EBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
+      "name": "abc",
+      "id": 5
     },
     {
-        "id": 7,
-        "name": "Bank of Kathmandu Ltd.",
-        "symbol": "BOKL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 8,
-        "name": "NIC Asia Bank Ltd.",
-        "symbol": "NICA",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 9,
-        "name": "Machhapuchhre Bank Limited",
-        "symbol": "MBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 10,
-        "name": "Laxmi Bank Limited",
-        "symbol": "LBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 11,
-        "name": "Kumari Bank Limited",
-        "symbol": "KBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 12,
-        "name": "Nepal Credit And Commercial Bank Limited",
-        "symbol": "NCCB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 13,
-        "name": "Siddhartha Bank Limited",
-        "symbol": "SBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 14,
-        "name": "Sanima Bank Limited",
-        "symbol": "SANIMA",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 15,
-        "name": "NMB Bank Limited",
-        "symbol": "NMB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 16,
-        "name": "Prabhu Bank Limited",
-        "symbol": "PRVU",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 17,
-        "name": "Global IME Bank Limited",
-        "symbol": "GBIME",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 18,
-        "name": "Citizen Bank International Limited",
-        "symbol": "CZBIL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 19,
-        "name": "Prime Commercial Bank Ltd.",
-        "symbol": "PCBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 20,
-        "name": "Sunrise Bank Limited",
-        "symbol": "SRBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 21,
-        "name": "Agriculture Development Bank Limited",
-        "symbol": "ADBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 22,
-        "name": "Nepal Bank Limited",
-        "symbol": "NBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 23,
-        "name": "Civil Bank Ltd",
-        "symbol": "CBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 24,
-        "name": "Mega Bank Nepal Ltd.",
-        "symbol": "MEGA",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 25,
-        "name": "Century Commercial Bank Ltd.",
-        "symbol": "CCBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 26,
-        "name": "Himalayan Bank Ltd.",
-        "symbol": "HBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 27,
-        "name": "Nepal Investment Bank Ltd.",
-        "symbol": "NIBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 1
-    },
-    {
-        "id": 28,
-        "name": "Narayani Development Bank Limited",
-        "symbol": "NABBC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-        "id": 29,
-        "name": "Excel Development Bank Ltd.",
-        "symbol": "EDBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-        "id": 30,
-        "name": "Lumbini Bikas Bank Ltd.",
-        "symbol": "LBBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-        "id": 31,
-        "name": "Miteri Development Bank Limited",
-        "symbol": "MDB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-        "id": 32,
-        "name": "Mahalaxmi Bikas Bank Ltd.",
-        "symbol": "MLBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-        "id": 33,
-        "name": "Garima Bikas Bank Limited",
-        "symbol": "GBBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-        "id": 34,
-        "name": "Jyoti Bikas Bank Limited",
-        "symbol": "JBBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-        "id": 35,
-        "name": "Karnali Development Bank Limited",
-        "symbol": "KRBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-        "id": 36,
-        "name": "Corporate Development Bank Limited",
-        "symbol": "CORBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-
-        "id": 37,
-        "name": "Kamana Sewa Bikas Bank Limited",
-        "symbol": "KSBBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-        "id": 38,
-        "name": "Shangrila Development Bank Ltd.",
-        "symbol": "SADBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-        "id": 39,
-        "name": "Shine Resunga Development Bank Ltd.",
-        "symbol": "SHINE",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-        "id": 40,
-        "name": "Muktinath Bikas Bank Ltd.",
-        "symbol": "MNBBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-        "id": 41,
-        "name": "Sindhu Bikash Bank Ltd",
-        "symbol": "SINDU",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-        "id": 42,
-        "name": "Green Development Bank Ltd.",
-        "symbol": "GRDBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-        "id": 43,
-        "name": "Saptakoshi Development Bank Ltd",
-        "symbol": "SAPDBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-        "id": 44,
-        "name": "Sahara Bikas Bank Ltd",
-        "symbol": "SHBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 2
-    },
-    {
-        "id": 45,
-        "name": "Nepal Finance Ltd.",
-        "symbol": "NFS",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 3
-    },
-    {
-        "id": 46,
-        "name": "Gurkhas Finance Ltd.",
-        "symbol": "GUFL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 3
-    },
-    {
-        "id": 47,
-        "name": "Best Finance Company Ltd.",
-        "symbol": "BFC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 3
-    },
-    {
-        "id": 48,
-        "name": "Goodwill Finance Co. Ltd.",
-        "symbol": "GFCL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 3
-    },
-    {
-        "id": 49,
-        "name": "Pokhara Finance Ltd.",
-        "symbol": "PFL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 3
-    },
-    {
-        "id": 50,
-        "name": "Shree Investment Finance Co. Ltd.",
-        "symbol": "SIFC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 3
-    },
-    {
-        "id": 51,
-        "name": "Central Finance Co. Ltd.",
-        "symbol": "CFCL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 3
-    },
-    {
-        "id": 52,
-        "name": "Janaki Finance Ltd.",
-        "symbol": "JFL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 3
-    },
-    {
-        "id": 53,
-        "name": "Samriddhi Finance Company Limited",
-        "symbol": "SFCL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 3
-    },
-    {
-        "id": 54,
-        "name": "Guheshowori Merchant Bank & Finance Co. Ltd.",
-        "symbol": "GMFIL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 3
-    },
-    {
-        "id": 55,
-        "name": "ICFC Finance Limited",
-        "symbol": "ICFC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 3
-    },
-    {
-        "id": 56,
-        "name": "ProgressiveFinance Limited",
-        "symbol": "PROFL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 3
-    },
-    {
-        "id": 57,
-        "name": "Multipurpose Finance Company Limited",
-        "symbol": "MPFL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 3
-    },
-    {
-        "id": 58,
-        "name": "Manjushree Finance Ltd.",
-        "symbol": "MFIL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 3
-    },
-    {
-        "id": 59,
-        "name": "Reliance Finance Ltd.",
-        "symbol": "RLFL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 3
-    },
-    {
-        "id": 60,
-        "name": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited",
-        "symbol": "NUBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 61,
-        "name": "Chhimek Laghubitta Bikas Bank Limited",
-        "symbol": "CBBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 62,
-        "name": "Deprosc Laghubitta Bittiya Sanstha Limited",
-        "symbol": "DDBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 63,
-        "name": "Swabalamban Laghubitta Bittiya Sanstha Limited",
-        "symbol": "SWBBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 64,
-        "name": "Nerude Laghubita Bikas Bank Limited",
-        "symbol": "NLBBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 65,
-        "name": "First Micro Finance Development Bank Ltd.",
-        "symbol": "FMDBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 66,
-        "name": "Summit Laghubitta Bittiya Sanstha Limited",
-        "symbol": "SMFDB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 67,
-        "name": "Swarojgar Laghu Bitta Bikas Bank Ltd.",
-        "symbol": "SLBBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 68,
-        "name": "Sana Kisan Bikas Bank Ltd",
-        "symbol": "SKBBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 69,
-        "name": "RMDC Laghubitta Bittiya Sanstha Ltd.",
-        "symbol": "RMDC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 70,
-        "name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
-        "symbol": "GBLBS",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 71,
-        "name": "Naya Sarathi Laghubitta Bittiya Sanstha Limited",
-        "symbol": "NSLB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 72,
-        "name": "Kalika Microcredit Development Bank Ltd.",
-        "symbol": "KMCDB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 73,
-        "name": "Mithila LaghuBitta Bittiya Sanstha Limited",
-        "symbol": "MLBBL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 74,
-        "name": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
-        "symbol": "LLBS",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 75,
-        "name": "Mirmire Microfinance Development Bank Ltd.",
-        "symbol": "MMFDB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 76,
-        "name": "Vijaya laghubitta Bittiya Sanstha Ltd.",
-        "symbol": "VLBS",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 77,
-        "name": "Civil Laghubitta Bittiya Sanstha Ltd.",
-        "symbol": "CLBSL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 78,
-        "name": "Kisan Lagubitta Bittiya Sanstha Limited",
-        "symbol": "KLBSL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 79,
-        "name": "Janautthan Samudayic Laghubitta Bikas Bank Ltd.",
-        "symbol": "JSLBB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 80,
-        "name": "NMB Microfinance Bittiya Sanstha Ltd.",
-        "symbol": "NMBMF",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 81,
-        "name": "Global IME Laghubitta Bittiya Sanstha Ltd.",
-        "symbol": "GILB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 82,
-        "name": "Mero Microfinance Bittiya Sanstha Ltd.",
-        "symbol": "MERO",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 83,
-        "name": "National Microfinance Bittiya Sanstha Ltd.",
-        "symbol": "NMFBS",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 84,
-        "name": "RSDC Laghubitta Bittiya Sanstha Ltd.",
-        "symbol": "RSDC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 85,
-        "name": "Forward Microfinance Bittiya Sanstha Ltd.",
-        "symbol": "FOWAD",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 86,
-        "name": "Samata Gharelu Laghubitta Bittiya Sanstha Limited",
-        "symbol": "SMATA",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 87,
-        "name": "Mahuli Samudayik Laghubitta Bittiya Sanstha Ltd.",
-        "symbol": "MSLB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 88,
-        "name": "Support Microfinance Bittiya Sanstha Ltd.",
-        "symbol": "SMB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 89,
-        "name": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
-        "symbol": "USLB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 90,
-        "name": "Aarambha Chautari Laghubitta Bittiya Sanstha Limited",
-        "symbol": "ACLBSL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 91,
-        "name": "Samudayik Laghubitta Bittiya Sanstha Limited",
-        "symbol": "SLBSL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 92,
-        "name": "Asha Laghubitta Bittiya Sanstha Ltd",
-        "symbol": "ALBSL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 93,
-        "name": "Ganapati Laghubitta Bittiya Sanstha Limited",
-        "symbol": "GMFBS",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 94,
-        "name": "Gurans Laghubitta Bittiya Sanstha Limited",
-        "symbol": "GLBSL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 95,
-        "name": "Swabhimaan Laghubitta Bittiya Sanstha Limited",
-        "symbol": "SMFBS",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 96,
-        "name": "Infinity Laghubitta Bittiya Sanstha Limited",
-        "symbol": "ILBS",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 97,
-        "name": "SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED",
-        "symbol": "SABSL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 98,
-        "name": "NIC ASIA Laghubitta Bittiya Sanstha Limited",
-        "symbol": "NICLBSL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 99,
-        "name": "Sadhana Laghubitta Bittiya Sanstha Limited",
-        "symbol": "SDLBSL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 100,
-        "name": "Mahila Lagubitta Bittiya Sanstha Limited",
-        "symbol": "MLBSL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 101,
-        "name": "Jeevan Bikas Laghubitta Bittya Sanstha Ltd",
-        "symbol": "JBLB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 102,
-        "name": "Manakamana Smart Laghubitta Bittiya Sanstha Limited",
-        "symbol": "MKLB",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 103,
-        "name": "Manushi Laghubitta Bittiya Sanstha Limited",
-        "symbol": "MLBS",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 104,
-        "name": "Suryodaya Laghubitta Bittiya Sanstha Ltd.",
-        "symbol": "SLBS",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 105,
-        "name": "Nepal Seva Laghubitta Bittiya Sanstha Ltd.",
-        "symbol": "NSEWA",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 106,
-        "name": "Nadep Laghubittiya bittya Sanstha Ltd.",
-        "symbol": "NADEP",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 107,
-        "name": "Nepal Agro Laghubitta Bittiya Sanstha Limited",
-        "symbol": "NAGRO",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 108,
-        "name": "ADHIKHOLA LAGHUBITTA BITTIYA SANSTHA LIMITED",
-        "symbol": "AKBSL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 109,
-        "name": "Ghodighoda Laghubitta Bittiya Sanstha Ltd.",
-        "symbol": "GGBSL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 110,
-        "name": "Samaj Laghubittya Bittiya Sanstha Limited",
-        "symbol": "SAMAJ",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 9
-    },
-    {
-        "id": 111,
-        "name": "National Life Insurance Co. Ltd.",
-        "symbol": "NLICL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 7
-    },
-    {
-        "id": 112,
-        "name": "Nepal Life Insurance Co. Ltd.",
-        "symbol": "NLIC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 7
-    },
-    {
-        "id": 113,
-        "name": "Life Insurance Co. Nepal",
-        "symbol": "LICN",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 7
-    },
-    {
-        "id": 114,
-        "name": "Asian Life Insurance Co. Limited",
-        "symbol": "ALICL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 7
-    },
-    {
-        "id": 115,
-        "name": "Prime Life Insurance Company Limited",
-        "symbol": "PLIC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 7
-    },
-    {
-        "id": 116,
-        "name": "Surya Life Insurance Company Limited",
-        "symbol": "SLICL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 7
-    },
-    {
-        "id": 117,
-        "name": "Gurans Life Insurance Company Ltd.",
-        "symbol": "GLICL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 7
-    },
-    {
-        "id": 118,
-        "name": "Reliance Life Insurance Limited",
-        "symbol": "RLI",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 7
-    },
-    {
-        "id": 119,
-        "name": "Prabhu Life Insurance Limited",
-        "symbol": "PLI",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 7
-    },
-    {
-        "id": 120,
-        "name": "Jyoti Life Insurance Ltd",
-        "symbol": "JLI",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 7
-    },
-    {
-        "id": 121,
-        "name": "Union Life Insurance Company Limited",
-        "symbol": "ULI",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 7
-    },
-
-
-{
-        "id": 122,
-        "name": "Sanima Life Insurance Limited",
-        "symbol": "SLI",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 7
-    },
-    {
-        "id": 123,
-        "name": "Nepal Insurance Co. Ltd.",
-        "symbol": "NICL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 124,
-        "name": "Rastriya Beema Company Limited",
-        "symbol": "RBCL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 125,
-        "name": "Himalayan General Insurance Co. Ltd",
-        "symbol": "HGI",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 126,
-        "name": "United Insurance Co. (Nepal) Ltd.",
-        "symbol": "UIC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 127,
-        "name": "Everest Insurance Co. Ltd.",
-        "symbol": "EIC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 128,
-        "name": "Premier Insurance Co. Ltd.",
-        "symbol": "PIC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 129,
-        "name": "Neco Insurance Co. Ltd.",
-        "symbol": "NIL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 130,
-        "name": "Prabhu Insurance Ltd.",
-        "symbol": "PRIN",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 131,
-        "name": "Sagarmatha Insurance Co. Ltd.",
-        "symbol": "SIC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 132,
-        "name": "IME General Insurance Ltd.",
-        "symbol": "IGI",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 133,
-        "name": "Prudential Insurance Co. Ltd.",
-        "symbol": "PICL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 134,
-        "name": "Lumbini General Insurance Co. Ltd.",
-        "symbol": "LGIL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 135,
-        "name": "Shikhar Insurance Co. Ltd.",
-        "symbol": "SICL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 136,
-        "name": "Siddhartha Insurance Ltd.",
-        "symbol": "SIL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 137,
-        "name": "NLG Insurance Company Ltd.",
-        "symbol": "NLG",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 138,
-        "name": "Ajod Insurance Limited",
-        "symbol": "AIL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 139,
-        "name": "General Insurance Company Nepal Ltd",
-        "symbol": "GIC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-
-
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 140,
-        "name": "Sanima General Insurance Limited",
-        "symbol": "SGI",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 10
-    },
-    {
-        "id": 141,
-        "name": "National Hydro Power Company Limited",
-        "symbol": "NHPC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 142,
-        "name": "Butwal Power Company Limited",
-        "symbol": "BPCL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 143,
-        "name": "Chilime Hydropower Company Limited",
-        "symbol": "CHCL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 144,
-        "name": "Arun Valley Hydropower Development Co. Ltd.",
-        "symbol": "AHPC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 145,
-        "name": "Sanima Mai Hydropower Ltd.",
-        "symbol": "SHPC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 146,
-        "name": "Ridi Hydropower Development Company Ltd.",
-        "symbol": "RHPC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 147,
-        "name": "Barun Hydropower Co. Ltd.",
-        "symbol": "BARUN",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 148,
-        "name": "Api Power Company Ltd.",
-        "symbol": "API",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 149,
-        "name": "Ngadi Group Power Ltd.",
-        "symbol": "NGPL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 150,
-        "name": "Khanikhola Hydropower Co. Ltd.",
-        "symbol": "KKHC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 151,
-        "name": "Dibyashwori Hydropower Ltd.",
-        "symbol": "DHPL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 152,
-        "name": "Arun Kabeli Power Ltd.",
-        "symbol": "AKPL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 153,
-        "name": "Synergy Power Development Ltd.",
-        "symbol": "SPDL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 154,
-        "name": "United Modi Hydropower Ltd.",
-        "symbol": "UMHL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 155,
-        "name": "Chhyangdi Hydropower Ltd.",
-        "symbol": "CHL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 156,
-        "name": "Himalayan Power Partner Ltd.",
-        "symbol": "HPPL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 157,
-
-
-        "name": "Nepal Hydro Developers Ltd.",
-        "symbol": "NHDL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 158,
-        "name": "Radhi Bidyut Company Ltd",
-        "symbol": "RADHI",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 159,
-        "name": "Rairang Hydropower Development Company Ltd.",
-        "symbol": "RRHP",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 160,
-        "name": "Panchakanya Mai Hydropower Ltd",
-        "symbol": "PMHPL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 161,
-        "name": "Kalika power Company Ltd",
-        "symbol": "KPCL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 162,
-        "name": "Ankhu Khola Jalvidhyut Company Ltd",
-        "symbol": "AKJCL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 163,
-        "name": "Joshi Hydropower Development Company Ltd",
-        "symbol": "JOSHI",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 164,
-        "name": "Upper Tamakoshi Hydropower Ltd",
-        "symbol": "UPPER",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 165,
-        "name": "Ghalemdi Hydro Limited",
-        "symbol": "GHL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 166,
-        "name": "UNIVERSAL POWER COMPANY LTD",
-        "symbol": "UPCL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 167,
-        "name": "Mountain Hydro Nepal Limited",
-        "symbol": "MHNL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 168,
-        "name": "Panchthar Power Compant Limited",
-        "symbol": "PPCL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 169,
-        "name": "Himalaya Urja Bikas Company Limited",
-        "symbol": "HURJA",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 170,
-        "name": "Union Hydropower Limited",
-        "symbol": "UNHPL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 171,
-        "name": "RASUWAGADHI HYDROPOWER COMPANY LIMITED",
-        "symbol": "RHPL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 172,
-        "name": "SANJEN JALAVIDHYUT COMPANY LIMITED",
-        "symbol": "SJCL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 173,
-        "name": "Himal Dolakha Hydropower Company Limited",
-        "symbol": "HDHPC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 174,
-        "name": "Liberty Energy Company Limited",
-        "symbol": "LEC",
-
-
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 175,
-        "name": "Shiva Shree Hydropower Ltd",
-        "symbol": "SSHL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 176,
-        "name": "Mountain Energy Nepal Limited",
-        "symbol": "MEN",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 177,
-        "name": "United IDI Mardi RB Hydropower Limited.",
-        "symbol": "UMRH",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 178,
-        "name": "GreenLife Hydropower Limited",
-        "symbol": "GLH",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 179,
-        "name": "Singati Hydro Energy Limited",
-        "symbol": "SHEL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 180,
-        "name": "Ru Ru Jalbidhyut Pariyojana Limited",
-        "symbol": "RURU",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 181,
-        "name": "Mailung Khola Jal Vidhyut Company Limited",
-        "symbol": "MKJC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 5
-    },
-    {
-        "id": 182,
-        "name": "Citizen Investment Trust",
-        "symbol": "CIT",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 6
-    },
-    {
-        "id": 183,
-        "name": "Hydorelectricity Investment and Development Company Ltd",
-        "symbol": "HIDCL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 6
-    },
-    {
-        "id": 184,
-        "name": "NRN Infrastructure and Development Limited",
-        "symbol": "NRN",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 6
-    },
-    {
-        "id": 185,
-        "name": "Nepal Infrastructure Bank Limited",
-        "symbol": "NIFRA",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 6
-    },
-    {
-        "id": 186,
-        "name": "CEDB Hydropower Development Company Limited",
-        "symbol": "CHDC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 6
-    },
-    {
-        "id": 187,
-        "name": "Bottlers Nepal (Balaju) Limited",
-        "symbol": "BNL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 8
-    },
-    {
-        "id": 188,
-        "name": "Nepal Lube Oil Limited",
-        "symbol": "NLO",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 8
-    },
-    {
-        "id": 189,
-        "name": "Bottlers Nepal (Terai) Limited",
-        "symbol": "BNT",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 8
-    },
-    {
-        "id": 190,
-        "name": "Unilever Nepal Limited",
-        "symbol": "UNL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 8
-    },
-    {
-        "id": 191,
-        "name": "Himalayan Distillery Limited",
-        "symbol": "HDL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-
-
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 8
-    },
-    {
-        "id": 192,
-        "name": "SHIVAM CEMENTS LTD",
-        "symbol": "SHIVM",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 8
-    },
-    {
-        "id": 193,
-        "name": "Soaltee Hotel Limited",
-        "symbol": "SHL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 4
-    },
-    {
-        "id": 194,
-        "name": "Taragaon Regency Hotel Limited",
-        "symbol": "TRH",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 4
-    },
-    {
-        "id": 195,
-        "name": "Oriental Hotels Limited",
-        "symbol": "OHL",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 4
-    },
-    {
-        "id": 196,
-        "name": "Chandragiri Hills Limited",
-        "symbol": "CGH",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 4
-    },
-    {
-        "id": 197,
-        "name": "Nepal Doorsanchar Comapany Limited",
-        "symbol": "NTC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 11
-    },
-    {
-        "id": 198,
-        "name": "Nepal Reinsurance Company Limited",
-        "symbol": "NRIC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 11
-    },
-    {
-        "id": 199,
-        "name": "Salt Trading Corporation",
-        "symbol": "STC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 12
-    },
-    {
-        "id": 200,
-        "name": "Bishal Bazar Company Limited",
-        "symbol": "BBC",
-        "created_at": "2021-11-28T09:33:48.205620Z",
-        "updated_at": "2021-11-28T09:33:48.205620Z",
-        "sector": 12
+      "name": "def",
+      "id": 6
     }
-]
+  ],
+
+
+
+
+  "profiles": [
+    {
+      "id": 1,
+      "nam": "adada",
+      "emai": "jhon@gmail.codam",
+      "contact": "+977-9841234567",
+      "address": "kathmandu",
+      "age": 20,
+      "gender": "male"
+    }
+  ],
+  "sectors": [
+    {
+      "id": 1,
+      "name": "Commercial Bank",
+      "created_at": "2021-11-28T09:25:33.902605Z",
+      "updated_at": "2021-11-28T09:25:33.902605Z"
+    },
+    {
+      "id": 2,
+      "name": "Development Bank",
+      "created_at": "2021-11-28T09:25:33.902605Z",
+      "updated_at": "2021-11-28T09:25:33.902605Z"
+    },
+    {
+      "id": 3,
+      "name": "Finance",
+      "created_at": "2021-11-28T09:25:33.902605Z",
+      "updated_at": "2021-11-28T09:25:33.902605Z"
+    },
+    {
+      "id": 4,
+      "name": "Hotels And Tourism",
+      "created_at": "2021-11-28T09:25:33.902605Z",
+      "updated_at": "2021-11-28T09:25:33.902605Z"
+    },
+    {
+      "id": 5,
+      "name": "Hydro Power",
+      "created_at": "2021-11-28T09:25:33.902605Z",
+      "updated_at": "2021-11-28T09:25:33.902605Z"
+    },
+    {
+      "id": 6,
+      "name": "Investment",
+      "created_at": "2021-11-28T09:25:33.902605Z",
+      "updated_at": "2021-11-28T09:25:33.902605Z"
+    },
+    {
+      "id": 7,
+      "name": "Life Insurance",
+      "created_at": "2021-11-28T09:25:33.902605Z",
+      "updated_at": "2021-11-28T09:25:33.902605Z"
+    },
+    {
+      "id": 8,
+      "name": "Manufacturing And Processing",
+      "created_at": "2021-11-28T09:25:33.902605Z",
+      "updated_at": "2021-11-28T09:25:33.902605Z"
+    },
+    {
+      "id": 9,
+      "name": "Microfinance",
+      "created_at": "2021-11-28T09:25:33.902605Z",
+      "updated_at": "2021-11-28T09:25:33.902605Z"
+    },
+    {
+      "id": 10,
+      "name": "Non Life Insurance",
+      "created_at": "2021-11-28T09:25:33.902605Z",
+      "updated_at": "2021-11-28T09:25:33.902605Z"
+    },
+    {
+      "id": 11,
+      "name": "Others",
+      "created_at": "2021-11-28T09:25:33.902605Z",
+      "updated_at": "2021-11-28T09:25:33.902605Z"
+    },
+    {
+      "id": 12,
+      "name": "Tradings",
+      "created_at": "2021-11-28T09:25:33.902605Z",
+      "updated_at": "2021-11-28T09:25:33.902605Z"
+    }
+  ],
+  
+  "stocks": [
+    {
+      "id": 1,
+      "name": "Rastriya Banijya Bank",
+      "symbol": "RBB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 2,
+      "name": "Nabil Bank Limited",
+      "symbol": "NABIL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 3,
+      "name": "Standard Chartered Bank Limited",
+      "symbol": "SCB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 4,
+      "name": "Nepal SBI Bank Limited",
+      "symbol": "SBI",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 5,
+      "name": "Nepal Bangladesh Bank Limited",
+      "symbol": "NBB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 6,
+      "name": "Everest Bank Limited",
+      "symbol": "EBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 7,
+      "name": "Bank of Kathmandu Ltd.",
+      "symbol": "BOKL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 8,
+      "name": "NIC Asia Bank Ltd.",
+      "symbol": "NICA",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 9,
+      "name": "Machhapuchhre Bank Limited",
+      "symbol": "MBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 10,
+      "name": "Laxmi Bank Limited",
+      "symbol": "LBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 11,
+      "name": "Kumari Bank Limited",
+      "symbol": "KBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 12,
+      "name": "Nepal Credit And Commercial Bank Limited",
+      "symbol": "NCCB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 13,
+      "name": "Siddhartha Bank Limited",
+      "symbol": "SBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 14,
+      "name": "Sanima Bank Limited",
+      "symbol": "SANIMA",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 15,
+      "name": "NMB Bank Limited",
+      "symbol": "NMB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 16,
+      "name": "Prabhu Bank Limited",
+      "symbol": "PRVU",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 17,
+      "name": "Global IME Bank Limited",
+      "symbol": "GBIME",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 18,
+      "name": "Citizen Bank International Limited",
+      "symbol": "CZBIL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 19,
+      "name": "Prime Commercial Bank Ltd.",
+      "symbol": "PCBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 20,
+      "name": "Sunrise Bank Limited",
+      "symbol": "SRBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 21,
+      "name": "Agriculture Development Bank Limited",
+      "symbol": "ADBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 22,
+      "name": "Nepal Bank Limited",
+      "symbol": "NBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 23,
+      "name": "Civil Bank Ltd",
+      "symbol": "CBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 24,
+      "name": "Mega Bank Nepal Ltd.",
+      "symbol": "MEGA",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 25,
+      "name": "Century Commercial Bank Ltd.",
+      "symbol": "CCBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 26,
+      "name": "Himalayan Bank Ltd.",
+      "symbol": "HBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 27,
+      "name": "Nepal Investment Bank Ltd.",
+      "symbol": "NIBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 1
+    },
+    {
+      "id": 28,
+      "name": "Narayani Development Bank Limited",
+      "symbol": "NABBC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 29,
+      "name": "Excel Development Bank Ltd.",
+      "symbol": "EDBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 30,
+      "name": "Lumbini Bikas Bank Ltd.",
+      "symbol": "LBBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 31,
+      "name": "Miteri Development Bank Limited",
+      "symbol": "MDB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 32,
+      "name": "Mahalaxmi Bikas Bank Ltd.",
+      "symbol": "MLBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 33,
+      "name": "Garima Bikas Bank Limited",
+      "symbol": "GBBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 34,
+      "name": "Jyoti Bikas Bank Limited",
+      "symbol": "JBBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 35,
+      "name": "Karnali Development Bank Limited",
+      "symbol": "KRBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 36,
+      "name": "Corporate Development Bank Limited",
+      "symbol": "CORBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 37,
+      "name": "Kamana Sewa Bikas Bank Limited",
+      "symbol": "KSBBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 38,
+      "name": "Shangrila Development Bank Ltd.",
+      "symbol": "SADBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 39,
+      "name": "Shine Resunga Development Bank Ltd.",
+      "symbol": "SHINE",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 40,
+      "name": "Muktinath Bikas Bank Ltd.",
+      "symbol": "MNBBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 41,
+      "name": "Sindhu Bikash Bank Ltd",
+      "symbol": "SINDU",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 42,
+      "name": "Green Development Bank Ltd.",
+      "symbol": "GRDBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 43,
+      "name": "Saptakoshi Development Bank Ltd",
+      "symbol": "SAPDBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 44,
+      "name": "Sahara Bikas Bank Ltd",
+      "symbol": "SHBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 2
+    },
+    {
+      "id": 45,
+      "name": "Nepal Finance Ltd.",
+      "symbol": "NFS",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 3
+    },
+    {
+      "id": 46,
+      "name": "Gurkhas Finance Ltd.",
+      "symbol": "GUFL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 3
+    },
+    {
+      "id": 47,
+      "name": "Best Finance Company Ltd.",
+      "symbol": "BFC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 3
+    },
+    {
+      "id": 48,
+      "name": "Goodwill Finance Co. Ltd.",
+      "symbol": "GFCL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 3
+    },
+    {
+      "id": 49,
+      "name": "Pokhara Finance Ltd.",
+      "symbol": "PFL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 3
+    },
+    {
+      "id": 50,
+      "name": "Shree Investment Finance Co. Ltd.",
+      "symbol": "SIFC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 3
+    },
+    {
+      "id": 51,
+      "name": "Central Finance Co. Ltd.",
+      "symbol": "CFCL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 3
+    },
+    {
+      "id": 52,
+      "name": "Janaki Finance Ltd.",
+      "symbol": "JFL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 3
+    },
+    {
+      "id": 53,
+      "name": "Samriddhi Finance Company Limited",
+      "symbol": "SFCL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 3
+    },
+    {
+      "id": 54,
+      "name": "Guheshowori Merchant Bank & Finance Co. Ltd.",
+      "symbol": "GMFIL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 3
+    },
+    {
+      "id": 55,
+      "name": "ICFC Finance Limited",
+      "symbol": "ICFC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 3
+    },
+    {
+      "id": 56,
+      "name": "ProgressiveFinance Limited",
+      "symbol": "PROFL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 3
+    },
+    {
+      "id": 57,
+      "name": "Multipurpose Finance Company Limited",
+      "symbol": "MPFL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 3
+    },
+    {
+      "id": 58,
+      "name": "Manjushree Finance Ltd.",
+      "symbol": "MFIL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 3
+    },
+    {
+      "id": 59,
+      "name": "Reliance Finance Ltd.",
+      "symbol": "RLFL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 3
+    },
+    {
+      "id": 60,
+      "name": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited",
+      "symbol": "NUBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 61,
+      "name": "Chhimek Laghubitta Bikas Bank Limited",
+      "symbol": "CBBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 62,
+      "name": "Deprosc Laghubitta Bittiya Sanstha Limited",
+      "symbol": "DDBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 63,
+      "name": "Swabalamban Laghubitta Bittiya Sanstha Limited",
+      "symbol": "SWBBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 64,
+      "name": "Nerude Laghubita Bikas Bank Limited",
+      "symbol": "NLBBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 65,
+      "name": "First Micro Finance Development Bank Ltd.",
+      "symbol": "FMDBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 66,
+      "name": "Summit Laghubitta Bittiya Sanstha Limited",
+      "symbol": "SMFDB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 67,
+      "name": "Swarojgar Laghu Bitta Bikas Bank Ltd.",
+      "symbol": "SLBBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 68,
+      "name": "Sana Kisan Bikas Bank Ltd",
+      "symbol": "SKBBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 69,
+      "name": "RMDC Laghubitta Bittiya Sanstha Ltd.",
+      "symbol": "RMDC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 70,
+      "name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd.",
+      "symbol": "GBLBS",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 71,
+      "name": "Naya Sarathi Laghubitta Bittiya Sanstha Limited",
+      "symbol": "NSLB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 72,
+      "name": "Kalika Microcredit Development Bank Ltd.",
+      "symbol": "KMCDB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 73,
+      "name": "Mithila LaghuBitta Bittiya Sanstha Limited",
+      "symbol": "MLBBL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 74,
+      "name": "Laxmi Laghubitta Bittiya Sanstha Ltd.",
+      "symbol": "LLBS",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 75,
+      "name": "Mirmire Microfinance Development Bank Ltd.",
+      "symbol": "MMFDB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 76,
+      "name": "Vijaya laghubitta Bittiya Sanstha Ltd.",
+      "symbol": "VLBS",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 77,
+      "name": "Civil Laghubitta Bittiya Sanstha Ltd.",
+      "symbol": "CLBSL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 78,
+      "name": "Kisan Lagubitta Bittiya Sanstha Limited",
+      "symbol": "KLBSL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 79,
+      "name": "Janautthan Samudayic Laghubitta Bikas Bank Ltd.",
+      "symbol": "JSLBB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 80,
+      "name": "NMB Microfinance Bittiya Sanstha Ltd.",
+      "symbol": "NMBMF",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 81,
+      "name": "Global IME Laghubitta Bittiya Sanstha Ltd.",
+      "symbol": "GILB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 82,
+      "name": "Mero Microfinance Bittiya Sanstha Ltd.",
+      "symbol": "MERO",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 83,
+      "name": "National Microfinance Bittiya Sanstha Ltd.",
+      "symbol": "NMFBS",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 84,
+      "name": "RSDC Laghubitta Bittiya Sanstha Ltd.",
+      "symbol": "RSDC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 85,
+      "name": "Forward Microfinance Bittiya Sanstha Ltd.",
+      "symbol": "FOWAD",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 86,
+      "name": "Samata Gharelu Laghubitta Bittiya Sanstha Limited",
+      "symbol": "SMATA",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 87,
+      "name": "Mahuli Samudayik Laghubitta Bittiya Sanstha Ltd.",
+      "symbol": "MSLB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 88,
+      "name": "Support Microfinance Bittiya Sanstha Ltd.",
+      "symbol": "SMB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 89,
+      "name": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
+      "symbol": "USLB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 90,
+      "name": "Aarambha Chautari Laghubitta Bittiya Sanstha Limited",
+      "symbol": "ACLBSL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 91,
+      "name": "Samudayik Laghubitta Bittiya Sanstha Limited",
+      "symbol": "SLBSL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 92,
+      "name": "Asha Laghubitta Bittiya Sanstha Ltd",
+      "symbol": "ALBSL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 93,
+      "name": "Ganapati Laghubitta Bittiya Sanstha Limited",
+      "symbol": "GMFBS",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 94,
+      "name": "Gurans Laghubitta Bittiya Sanstha Limited",
+      "symbol": "GLBSL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 95,
+      "name": "Swabhimaan Laghubitta Bittiya Sanstha Limited",
+      "symbol": "SMFBS",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 96,
+      "name": "Infinity Laghubitta Bittiya Sanstha Limited",
+      "symbol": "ILBS",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 97,
+      "name": "SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED",
+      "symbol": "SABSL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 98,
+      "name": "NIC ASIA Laghubitta Bittiya Sanstha Limited",
+      "symbol": "NICLBSL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 99,
+      "name": "Sadhana Laghubitta Bittiya Sanstha Limited",
+      "symbol": "SDLBSL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 100,
+      "name": "Mahila Lagubitta Bittiya Sanstha Limited",
+      "symbol": "MLBSL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 101,
+      "name": "Jeevan Bikas Laghubitta Bittya Sanstha Ltd",
+      "symbol": "JBLB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 102,
+      "name": "Manakamana Smart Laghubitta Bittiya Sanstha Limited",
+      "symbol": "MKLB",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 103,
+      "name": "Manushi Laghubitta Bittiya Sanstha Limited",
+      "symbol": "MLBS",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 104,
+      "name": "Suryodaya Laghubitta Bittiya Sanstha Ltd.",
+      "symbol": "SLBS",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 105,
+      "name": "Nepal Seva Laghubitta Bittiya Sanstha Ltd.",
+      "symbol": "NSEWA",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 106,
+      "name": "Nadep Laghubittiya bittya Sanstha Ltd.",
+      "symbol": "NADEP",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 107,
+      "name": "Nepal Agro Laghubitta Bittiya Sanstha Limited",
+      "symbol": "NAGRO",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 108,
+      "name": "ADHIKHOLA LAGHUBITTA BITTIYA SANSTHA LIMITED",
+      "symbol": "AKBSL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 109,
+      "name": "Ghodighoda Laghubitta Bittiya Sanstha Ltd.",
+      "symbol": "GGBSL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 110,
+      "name": "Samaj Laghubittya Bittiya Sanstha Limited",
+      "symbol": "SAMAJ",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 9
+    },
+    {
+      "id": 111,
+      "name": "National Life Insurance Co. Ltd.",
+      "symbol": "NLICL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 7
+    },
+    {
+      "id": 112,
+      "name": "Nepal Life Insurance Co. Ltd.",
+      "symbol": "NLIC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 7
+    },
+    {
+      "id": 113,
+      "name": "Life Insurance Co. Nepal",
+      "symbol": "LICN",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 7
+    },
+    {
+      "id": 114,
+      "name": "Asian Life Insurance Co. Limited",
+      "symbol": "ALICL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 7
+    },
+    {
+      "id": 115,
+      "name": "Prime Life Insurance Company Limited",
+      "symbol": "PLIC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 7
+    },
+    {
+      "id": 116,
+      "name": "Surya Life Insurance Company Limited",
+      "symbol": "SLICL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 7
+    },
+    {
+      "id": 117,
+      "name": "Gurans Life Insurance Company Ltd.",
+      "symbol": "GLICL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 7
+    },
+    {
+      "id": 118,
+      "name": "Reliance Life Insurance Limited",
+      "symbol": "RLI",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 7
+    },
+    {
+      "id": 119,
+      "name": "Prabhu Life Insurance Limited",
+      "symbol": "PLI",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 7
+    },
+    {
+      "id": 120,
+      "name": "Jyoti Life Insurance Ltd",
+      "symbol": "JLI",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 7
+    },
+    {
+      "id": 121,
+      "name": "Union Life Insurance Company Limited",
+      "symbol": "ULI",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 7
+    },
+    {
+      "id": 122,
+      "name": "Sanima Life Insurance Limited",
+      "symbol": "SLI",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 7
+    },
+    {
+      "id": 123,
+      "name": "Nepal Insurance Co. Ltd.",
+      "symbol": "NICL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 124,
+      "name": "Rastriya Beema Company Limited",
+      "symbol": "RBCL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 125,
+      "name": "Himalayan General Insurance Co. Ltd",
+      "symbol": "HGI",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 126,
+      "name": "United Insurance Co. (Nepal) Ltd.",
+      "symbol": "UIC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 127,
+      "name": "Everest Insurance Co. Ltd.",
+      "symbol": "EIC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 128,
+      "name": "Premier Insurance Co. Ltd.",
+      "symbol": "PIC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 129,
+      "name": "Neco Insurance Co. Ltd.",
+      "symbol": "NIL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 130,
+      "name": "Prabhu Insurance Ltd.",
+      "symbol": "PRIN",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 131,
+      "name": "Sagarmatha Insurance Co. Ltd.",
+      "symbol": "SIC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 132,
+      "name": "IME General Insurance Ltd.",
+      "symbol": "IGI",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 133,
+      "name": "Prudential Insurance Co. Ltd.",
+      "symbol": "PICL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 134,
+      "name": "Lumbini General Insurance Co. Ltd.",
+      "symbol": "LGIL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 135,
+      "name": "Shikhar Insurance Co. Ltd.",
+      "symbol": "SICL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 136,
+      "name": "Siddhartha Insurance Ltd.",
+      "symbol": "SIL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 137,
+      "name": "NLG Insurance Company Ltd.",
+      "symbol": "NLG",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 138,
+      "name": "Ajod Insurance Limited",
+      "symbol": "AIL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 139,
+      "name": "General Insurance Company Nepal Ltd",
+      "symbol": "GIC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 140,
+      "name": "Sanima General Insurance Limited",
+      "symbol": "SGI",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 10
+    },
+    {
+      "id": 141,
+      "name": "National Hydro Power Company Limited",
+      "symbol": "NHPC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 142,
+      "name": "Butwal Power Company Limited",
+      "symbol": "BPCL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 143,
+      "name": "Chilime Hydropower Company Limited",
+      "symbol": "CHCL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 144,
+      "name": "Arun Valley Hydropower Development Co. Ltd.",
+      "symbol": "AHPC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 145,
+      "name": "Sanima Mai Hydropower Ltd.",
+      "symbol": "SHPC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 146,
+      "name": "Ridi Hydropower Development Company Ltd.",
+      "symbol": "RHPC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 147,
+      "name": "Barun Hydropower Co. Ltd.",
+      "symbol": "BARUN",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 148,
+      "name": "Api Power Company Ltd.",
+      "symbol": "API",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 149,
+      "name": "Ngadi Group Power Ltd.",
+      "symbol": "NGPL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 150,
+      "name": "Khanikhola Hydropower Co. Ltd.",
+      "symbol": "KKHC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 151,
+      "name": "Dibyashwori Hydropower Ltd.",
+      "symbol": "DHPL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 152,
+      "name": "Arun Kabeli Power Ltd.",
+      "symbol": "AKPL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 153,
+      "name": "Synergy Power Development Ltd.",
+      "symbol": "SPDL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 154,
+      "name": "United Modi Hydropower Ltd.",
+      "symbol": "UMHL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 155,
+      "name": "Chhyangdi Hydropower Ltd.",
+      "symbol": "CHL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 156,
+      "name": "Himalayan Power Partner Ltd.",
+      "symbol": "HPPL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 157,
+      "name": "Nepal Hydro Developers Ltd.",
+      "symbol": "NHDL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 158,
+      "name": "Radhi Bidyut Company Ltd",
+      "symbol": "RADHI",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 159,
+      "name": "Rairang Hydropower Development Company Ltd.",
+      "symbol": "RRHP",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 160,
+      "name": "Panchakanya Mai Hydropower Ltd",
+      "symbol": "PMHPL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 161,
+      "name": "Kalika power Company Ltd",
+      "symbol": "KPCL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 162,
+      "name": "Ankhu Khola Jalvidhyut Company Ltd",
+      "symbol": "AKJCL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 163,
+      "name": "Joshi Hydropower Development Company Ltd",
+      "symbol": "JOSHI",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 164,
+      "name": "Upper Tamakoshi Hydropower Ltd",
+      "symbol": "UPPER",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 165,
+      "name": "Ghalemdi Hydro Limited",
+      "symbol": "GHL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 166,
+      "name": "UNIVERSAL POWER COMPANY LTD",
+      "symbol": "UPCL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 167,
+      "name": "Mountain Hydro Nepal Limited",
+      "symbol": "MHNL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 168,
+      "name": "Panchthar Power Compant Limited",
+      "symbol": "PPCL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 169,
+      "name": "Himalaya Urja Bikas Company Limited",
+      "symbol": "HURJA",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 170,
+      "name": "Union Hydropower Limited",
+      "symbol": "UNHPL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 171,
+      "name": "RASUWAGADHI HYDROPOWER COMPANY LIMITED",
+      "symbol": "RHPL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 172,
+      "name": "SANJEN JALAVIDHYUT COMPANY LIMITED",
+      "symbol": "SJCL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 173,
+      "name": "Himal Dolakha Hydropower Company Limited",
+      "symbol": "HDHPC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 174,
+      "name": "Liberty Energy Company Limited",
+      "symbol": "LEC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 175,
+      "name": "Shiva Shree Hydropower Ltd",
+      "symbol": "SSHL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 176,
+      "name": "Mountain Energy Nepal Limited",
+      "symbol": "MEN",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 177,
+      "name": "United IDI Mardi RB Hydropower Limited.",
+      "symbol": "UMRH",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 178,
+      "name": "GreenLife Hydropower Limited",
+      "symbol": "GLH",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 179,
+      "name": "Singati Hydro Energy Limited",
+      "symbol": "SHEL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 180,
+      "name": "Ru Ru Jalbidhyut Pariyojana Limited",
+      "symbol": "RURU",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 181,
+      "name": "Mailung Khola Jal Vidhyut Company Limited",
+      "symbol": "MKJC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 5
+    },
+    {
+      "id": 182,
+      "name": "Citizen Investment Trust",
+      "symbol": "CIT",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 6
+    },
+    {
+      "id": 183,
+      "name": "Hydorelectricity Investment and Development Company Ltd",
+      "symbol": "HIDCL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 6
+    },
+    {
+      "id": 184,
+      "name": "NRN Infrastructure and Development Limited",
+      "symbol": "NRN",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 6
+    },
+    {
+      "id": 185,
+      "name": "Nepal Infrastructure Bank Limited",
+      "symbol": "NIFRA",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 6
+    },
+    {
+      "id": 186,
+      "name": "CEDB Hydropower Development Company Limited",
+      "symbol": "CHDC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 6
+    },
+    {
+      "id": 187,
+      "name": "Bottlers Nepal (Balaju) Limited",
+      "symbol": "BNL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 8
+    },
+    {
+      "id": 188,
+      "name": "Nepal Lube Oil Limited",
+      "symbol": "NLO",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 8
+    },
+    {
+      "id": 189,
+      "name": "Bottlers Nepal (Terai) Limited",
+      "symbol": "BNT",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 8
+    },
+    {
+      "id": 190,
+      "name": "Unilever Nepal Limited",
+      "symbol": "UNL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 8
+    },
+    {
+      "id": 191,
+      "name": "Himalayan Distillery Limited",
+      "symbol": "HDL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 8
+    },
+    {
+      "id": 192,
+      "name": "SHIVAM CEMENTS LTD",
+      "symbol": "SHIVM",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 8
+    },
+    {
+      "id": 193,
+      "name": "Soaltee Hotel Limited",
+      "symbol": "SHL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 4
+    },
+    {
+      "id": 194,
+      "name": "Taragaon Regency Hotel Limited",
+      "symbol": "TRH",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 4
+    },
+    {
+      "id": 195,
+      "name": "Oriental Hotels Limited",
+      "symbol": "OHL",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 4
+    },
+    {
+      "id": 196,
+      "name": "Chandragiri Hills Limited",
+      "symbol": "CGH",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 4
+    },
+    {
+      "id": 197,
+      "name": "Nepal Doorsanchar Comapany Limited",
+      "symbol": "NTC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 11
+    },
+    {
+      "id": 198,
+      "name": "Nepal Reinsurance Company Limited",
+      "symbol": "NRIC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 11
+    },
+    {
+      "id": 199,
+      "name": "Salt Trading Corporation",
+      "symbol": "STC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 12
+    },
+    {
+      "id": 200,
+      "name": "Bishal Bazar Company Limited",
+      "symbol": "BBC",
+      "created_at": "2021-11-28T09:33:48.205620Z",
+      "updated_at": "2021-11-28T09:33:48.205620Z",
+      "sector": 12
+    }
+  ]
 }

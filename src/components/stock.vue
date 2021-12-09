@@ -16,7 +16,7 @@
 
   <q-btn-dropdown pa="100px" color="primary" label="Select Stock">
       <q-list>
-        <q-item v-for="stoc in filteredstocks" :key="stoc.id" clickable v-close-popup @click="onItemClick(sect.id)">
+        <q-item v-for="stoc in filteredstocks" :key="stoc.id" clickable v-close-popup @click="onItemClicks(stoc.id)">
           <q-item-section >
             <q-item-label> {{stoc.name}} </q-item-label>
           </q-item-section>
@@ -37,19 +37,28 @@
                     </tr>
                   </thead>
                   <tbody>
-                    <tr v-for="stoc in filteredstocks" :key="stoc.id">
+
+                     <tr v-for="stoc in  filteredsingle" :key="stoc.id">
                       <td>{{stoc.id}}</td>
                       <td>{{stoc.name}}</td>
                       <td>{{stoc.symbol}}</td>
                       <td>{{stoc.sector}}</td>
-                      <!-- <td v-for="sect in sectors" :key="sect.id"  >{{sect.name}}</td> -->
+                     
                     </tr>
-                    <tr v-for="stoc in stocks" :key="stoc.id">
+
+                    <!-- <tr v-for="stoc in filteredstocks" :key="stoc.id">
                       <td>{{stoc.id}}</td>
                       <td>{{stoc.name}}</td>
                       <td>{{stoc.symbol}}</td>
                       <td>{{stoc.sector}}</td>
-                    </tr>
+                     
+                    </tr> -->
+                    <!-- <tr v-for="stoc in stocks" :key="stoc.id">
+                      <td>{{stoc.id}}</td>
+                      <td>{{stoc.name}}</td>
+                      <td>{{stoc.symbol}}</td>
+                      <td>{{stoc.sector}}</td>
+                    </tr> -->
 
                   </tbody>
             </table>
@@ -71,7 +80,8 @@ export default{
         return{
             stocks:[],
             sectors:[],
-            filteredstocks:[]
+            filteredstocks:[],
+            filteredsingle:[]
             
 
                   
@@ -107,16 +117,18 @@ export default{
         
       },
 
-       onItemClicks(sectorId) {
+       onItemClicks(stockId) {
          
-         const filteredItems =this.stocks.filter((item)=>{
-            return item.sector===sectorId;
+         const filteredItemsSingle =this.filteredstocks.filter((item)=>{
+            return item.id===stockId;
             })
 
-           this.filteredstocks = filteredItems
-
+           this. filteredsingle = filteredItemsSingle
+         console.log ( filteredsingle );
         
       },
+     
+    
         
        
 

@@ -13,6 +13,7 @@
   <!-- <sectors /> -->
   <profile />
   <stock />
+  <anm />
   
  
 
@@ -29,6 +30,7 @@ import Datatable from "src/components/Datatable.vue";
 import Stock from "src/components/stock.vue";
 import Sectors from "src/components/Sectors.vue";
 import Profile from "src/components/Profile.vue";
+import Anm from "src/components/anm.vue";
 
 
 export default {
@@ -39,7 +41,8 @@ export default {
     // Todo,
     //Datatable,
     Stock,
-    Profile
+     Profile,
+    Anm
 },
 };
 </script>

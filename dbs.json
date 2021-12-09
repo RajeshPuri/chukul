@@ -2,46 +2,69 @@
   "todos": [
     {
       "id": 0,
-      "name": "Go to the gym"
+      "name": "Jhon",
+      "email": "jhon@email.com",
+      "number": "9841234564",
+      "Language": "python"
     },
     {
       "id": 1,
-      "name": "Walk the dog"
-    },
-    {
-      "id": 2,
-      "name": "Get some pizza"
-    },
-    {
-      "name": "rajesh",
-      "id": 3
-    },
-    {
-      "name": "ffff",
-      "id": 4
-    },
-    {
-      "name": "abc",
-      "id": 5
-    },
-    {
-      "name": "def",
-      "id": 6
+      "name": "jack",
+      "email": "jack@email.com",
+      "number": "9847384564",
+      "Language": "Vue js"
     }
   ],
-
-
-
-
   "profiles": [
     {
       "id": 1,
-      "nam": "adada",
-      "emai": "jhon@gmail.codam",
+      "name": "adada",
+      "email": "jhon@gmail.codam",
       "contact": "+977-9841234567",
       "address": "kathmandu",
       "age": 20,
       "gender": "male"
+    },
+    [
+      {
+        "name": "apple"
+      },
+      {
+        "email": "ball@cat.com"
+      },
+      {
+        "contact": "9841521311"
+      },
+      {
+        "address": "kathmandu"
+      },
+      {
+        "age": "23"
+      }
+    ],
+    {
+      "name": "apple",
+      "email": "shbdj@udsh.com",
+      "contact": "275634242",
+      "address": "fshbkhfksj",
+      "age": "32",
+      "id": 3
+    },
+    {
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "contact": "9841890452",
+      "address": "kathmandu`",
+      "age": "12",
+      "id": 4
+    },
+    {
+      "name": "rajesh Puri",
+      "email": "rajes@gmail.com",
+      "contact": "865712131",
+      "address": "kaadad",
+      "age": "231",
+      "id": 5
     }
   ],
   "sectors": [
@@ -118,7 +141,6 @@
       "updated_at": "2021-11-28T09:25:33.902605Z"
     }
   ],
-  
   "stocks": [
     {
       "id": 1,

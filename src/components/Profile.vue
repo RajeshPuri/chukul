@@ -95,7 +95,7 @@
       <q-toggle v-model="accept" label="I accept the license and terms" />
 
       <div>
-        <q-btn label="Submit" type="submit" color="primary"/>
+        <q-btn  label="Submit" type="submit" color="primary"/>
         <q-btn label="Reset" type="reset" color="primary" flat class="q-ml-sm" />
       </div>
     </q-form>
@@ -108,12 +108,13 @@
 
     <script>
 import { useQuasar } from 'quasar'
-import { ref } from 'vue'
+import { ref } from 'vue' 
+
 const baseURL ="http://localhost:3000/profiles";
 
 export default {
   setup () {
-   const gender= ref('male')
+   const gender= ref('')
     const $q = useQuasar()
 
     const name = ref("John Doe")
@@ -142,7 +143,7 @@ export default {
         try{
             const res =await axios.get(baseURL);
             this.profiles=res.data;
-            console.log(res.data)
+            // console.log(res.data)
         }catch(e){
             console.error(e);
         }

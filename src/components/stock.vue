@@ -1,28 +1,42 @@
 <template>
-    <div>
+    <div row justify-center items-center>
         <h6 id="demo">Stock Table</h6>
+
+        <div  class="drop" style="margin: auto;left: 40%;position: relative;">
+
+        
+                <q-btn-dropdown  pa="100px" color="primary" label="Select Sectors" style="margin: 0px 15px;">
+                      <q-list>
+                        <q-item v-for="sect in sectors" :key="sect.id" clickable v-close-popup @click=" onItemClickStock(sect.id)">
+                          <q-item-section >
+                            <q-item-label> {{sect.name}} </q-item-label>
+                          </q-item-section>
+                        </q-item>
+                    </q-list>
+                  </q-btn-dropdown>
+
+                  
+
+                  <q-btn-dropdown pa="100px" color="primary" label="Select Stock">
+                      <q-list>
+                        <q-item v-for="stoc in filteredstocks" :key="stoc.id" clickable v-close-popup @click="onItemClicks(stoc.id)">
+                          <q-item-section >
+                            <q-item-label> {{stoc.name}} </q-item-label>
+                          </q-item-section>
+                        </q-item>
+                    </q-list>
+                  </q-btn-dropdown>
+
+      </div>
+ <div  class="drop" style="margin: auto;left: 32%;position: relative;">
+             <div class="q-pa-md q-m-md q-gutter-sm">
+                <q-btn color="primary" icon="mail" label="Tabular" />
+                <q-btn color="primary" icon-right="mail" label="Graph" />
+                <q-btn color="primary" icon="mail" icon-right="" label="Add/remove Dimension" />
+                
+               </div>
+             </div>
        
- <q-btn-dropdown m="10px" pa="100px" color="primary" label="Select Sectors">
-      <q-list>
-        <q-item v-for="sect in sectors" :key="sect.id" clickable v-close-popup @click=" onItemClickStock(sect.id)">
-          <q-item-section >
-            <q-item-label> {{sect.name}} </q-item-label>
-          </q-item-section>
-        </q-item>
-     </q-list>
-  </q-btn-dropdown>
-
-  
-
-  <q-btn-dropdown pa="100px" color="primary" label="Select Stock">
-      <q-list>
-        <q-item v-for="stoc in filteredstocks" :key="stoc.id" clickable v-close-popup @click="onItemClicks(stoc.id)">
-          <q-item-section >
-            <q-item-label> {{stoc.name}} </q-item-label>
-          </q-item-section>
-        </q-item>
-     </q-list>
-  </q-btn-dropdown>
  
 
 
@@ -37,6 +51,13 @@
                     </tr>
                   </thead>
                   <tbody>
+
+                  <tr>
+                      <td>{{}}</td>
+                      <td>{{}}</td>
+                      <td>{{}}</td>
+                      <td>{{}}</td>
+                  </tr>
 
                      <tr v-for="stoc in  filteredsingle" :key="stoc.id">
                       <td>{{stoc.id}}</td>

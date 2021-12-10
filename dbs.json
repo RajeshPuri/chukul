@@ -24,48 +24,9 @@
       "address": "kathmandu",
       "age": 20,
       "gender": "male"
-    },
-    [
-      {
-        "name": "apple"
-      },
-      {
-        "email": "ball@cat.com"
-      },
-      {
-        "contact": "9841521311"
-      },
-      {
-        "address": "kathmandu"
-      },
-      {
-        "age": "23"
-      }
-    ],
-    {
-      "name": "apple",
-      "email": "shbdj@udsh.com",
-      "contact": "275634242",
-      "address": "fshbkhfksj",
-      "age": "32",
-      "id": 3
-    },
-    {
-      "name": "ravi",
-      "email": "ravi@gmail.com",
-      "contact": "9841890452",
-      "address": "kathmandu`",
-      "age": "12",
-      "id": 4
-    },
-    {
-      "name": "rajesh Puri",
-      "email": "rajes@gmail.com",
-      "contact": "865712131",
-      "address": "kaadad",
-      "age": "231",
-      "id": 5
     }
+   
+   
   ],
   "sectors": [
     {

@@ -52,14 +52,9 @@
                   </thead>
                   <tbody>
 
-                  <tr>
-                      <td>{{}}</td>
-                      <td>{{}}</td>
-                      <td>{{}}</td>
-                      <td>{{}}</td>
-                  </tr>
+                 
 
-                     <tr v-for="stoc in  filteredsingle" :key="stoc.id">
+                     <tr  v-for="stoc in  filteredsingle" :key="stoc.id">
                       <td>{{stoc.id}}</td>
                       <td>{{stoc.name}}</td>
                       <td>{{stoc.symbol}}</td>
@@ -67,19 +62,27 @@
                      
                     </tr>
 
-                    <!-- <tr v-for="stoc in filteredstocks" :key="stoc.id">
+                   
+
+                    <tr v-show="showTable"  v-for="stoc in filteredstocks" :key="stoc.id">
+                      <td>{{stoc.id}}</td>
+                      <td>{{stoc.name}}</td>
+                      <td>{{stoc.symbol}}</td>
+                      <td>{{stoc.sector}}</td>
+                    </tr>
+                     
+                
+
+                    
+
+                     <tr v-show="showAllTable" v-for="stoc in stocks" :key="stoc.id">
                       <td>{{stoc.id}}</td>
                       <td>{{stoc.name}}</td>
                       <td>{{stoc.symbol}}</td>
                       <td>{{stoc.sector}}</td>
                      
-                    </tr> -->
-                    <!-- <tr v-for="stoc in stocks" :key="stoc.id">
-                      <td>{{stoc.id}}</td>
-                      <td>{{stoc.name}}</td>
-                      <td>{{stoc.symbol}}</td>
-                      <td>{{stoc.sector}}</td>
-                    </tr> -->
+                    </tr>
+                   
 
                   </tbody>
             </table>
@@ -102,7 +105,10 @@ export default{
             stocks:[],
             sectors:[],
             filteredstocks:[],
-            filteredsingle:[]
+            filteredsingle:[],
+            showAllTable:true,
+
+            showTable : true,
             
 
                   
@@ -133,7 +139,9 @@ export default{
             return item.sector===sectorId;
             })
 
-           this.filteredstocks = filteredItems
+           this.filteredstocks = filteredItems;
+           this.showTable=true;
+            this.showAllTable=false;
 
         
       },
@@ -144,8 +152,12 @@ export default{
             return item.id===stockId;
             })
 
-           this. filteredsingle = filteredItemsSingle
-         console.log ( filteredsingle );
+           this. filteredsingle = filteredItemsSingle;
+
+           this.showTable=false;
+
+
+        //  console.log ( filteredsingle );
         
       },
      
